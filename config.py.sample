@@ -2,4 +2,5 @@ twitchio_config = {
     "BOT_USERNAME": "username",
     "CHANNEL_NAME": ["channel_name"],
     "OAUTH_TOKEN": "oauth:***",
+    "START_MESSAGE": "Hello"  # optional
 }
